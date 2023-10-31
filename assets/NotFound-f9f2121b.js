@@ -1,0 +1,1 @@
+import{_ as e,o as t,j as s,p as _,m as c,k as d}from"./index-148fbec8.js";const n={},a=o=>(_("data-v-590fd81b"),o=o(),c(),o),p={class:"not-found"},r=a(()=>d("h2",null,"Not Found 页面丢失。",-1)),u=[r];function f(o,i){return t(),s("div",p,u)}const h=e(n,[["render",f],["__scopeId","data-v-590fd81b"]]);export{h as default};
